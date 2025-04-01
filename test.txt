@@ -1,1 +1,1 @@
-city; vairapuram
+city: vairapuram
